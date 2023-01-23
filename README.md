@@ -9,7 +9,6 @@
 ---
 
 ### :woman_technologist: About Me :
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m studying Software Engineering from Mumbai University.
 
 - :seedling: Currently exploring the web3 space.
