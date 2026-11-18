@@ -6,8 +6,6 @@
   </h1>
 </div>
 
----
-
 ### :woman_technologist: About Me
 - :briefcase: SDE 2 at **JPMorgan Chase & Co.**, building backend services and RAG & LLM-assisted tooling that helps resolve production incidents.
 
