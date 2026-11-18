@@ -4,7 +4,6 @@
     hey there, I'm Rachel
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>Software Engineer</p>
 </div>
 
 ---
@@ -39,10 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rachel-ux&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-ux&layout=compact&theme=shades-of-purple)](https://github.com/rachel-ux)
